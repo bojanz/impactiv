@@ -1,0 +1,8 @@
+name: Impactiv
+type: module
+description: 'Provides custom functionality for Innkeeper.'
+package: Commerce
+core: 8.x
+dependencies:
+  - commerce:commerce_cart
+  - commerce:commerce_tax
